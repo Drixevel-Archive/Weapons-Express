@@ -46,7 +46,7 @@ public Plugin myinfo =
 	author = "Keith Warren (Shaders Allen)",
 	description = "Custom weapon attributes by yours truly.",
 	version = "1.0.0",
-	url = "https://eunoiaservers.com/"
+	url = "https://www.shadersallen.com/"
 };
 
 public void OnPluginStart()
